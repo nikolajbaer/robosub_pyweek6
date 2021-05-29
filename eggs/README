@@ -1,0 +1,9 @@
+Drop egg files in here which your game might use.
+
+If you have platform specific eggs, drop them in the 
+eggs/<linux2|darwin|win32> folders, and they will be loaded depending on the
+platform the code is executed on.
+
+All eggs become available when the game is run using the run_game.py script.
+Egg which are not-zip-safe are unpacked automatically the first time they are
+used.
