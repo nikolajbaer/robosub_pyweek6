@@ -1,9 +1,10 @@
-Your Game Title
-===============
+Robosub - Pyweek 6
+==================
 
-Entry in PyWeek #5  <http://www.pyweek.org/5/>
+Entry in PyWeek #6  <http://www.pyweek.org/6/>
 Team: Robot kite Club
 Members: nikolajbaer
+Entry: https://pyweek.org/e/robotkiteclub/
 
 DEPENDENCIES:
 
